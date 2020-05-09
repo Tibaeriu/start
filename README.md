@@ -1,2 +1,0 @@
-# start
-Start in Python
