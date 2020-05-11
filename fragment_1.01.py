@@ -16,3 +16,4 @@ b = int(input('Introduceti suma de varsta a celor 2:'))
 #   asadar varsta_Ionel = b - varsta_Alex
 print ('Varsta lui Alex este:', (a + b)/2)
 print ('Varsta lui Ionel este:', b - (a + b)/2)
+    
