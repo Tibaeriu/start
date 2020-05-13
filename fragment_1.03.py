@@ -11,3 +11,4 @@ for i in range (len(lista)):
 #list.count - nr de aparitii element
 #list.reverse - inversare elemente
 #list.pop - stergere element
+#min(), max() - minimul si maximul dintr-o lista
